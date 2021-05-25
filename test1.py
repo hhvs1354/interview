@@ -9,3 +9,4 @@ for word in x:
     
 print("A:"+str)
 print("B:"+s[::-1])
+1231231231321651651655616

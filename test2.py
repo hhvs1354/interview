@@ -8,3 +8,6 @@ for i in range(1,data+1):
     else:
         list.append(i)
 print(len(list))  
+
+
+for test1 :1651896132198
